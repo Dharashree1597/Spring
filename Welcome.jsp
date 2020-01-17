@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to springmvc</h1>
-
+<h2> welcome ${login.username}</h2>
 </body>
 </html>

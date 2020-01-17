@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="Login" method="post">
-user name<input type="text" name="username"><br>
+<form action="login" method="post">
+user name <input type="text" name="username"><br>
 password <input type="text" name="password"><br>
 <input type="submit">
 </form>
